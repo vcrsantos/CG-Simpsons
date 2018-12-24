@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544500996 source:c:\users\victor\desktop\projetocg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<GL/glu.h>
+
